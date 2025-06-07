@@ -19,10 +19,10 @@ This script is a video processing tool that uses the YOLOv5 object detection mod
 
 ## 📸 Visual Demonstration
 
-### Step 1: Person detected outside ROI  
+### Step 1: Person detected using YOLOv5
 ![Step 1](Images/person_detected.png)
 
-### Step 2: ROI marked (green polygon) and multiple persons detected  
+### Step 2: ROI region marked (green polygon) and multiple persons detected  
 ![Step 2](Images/roi_with_multiple_persons.png)
 
 ### Step 3: Alarm triggered as a person enters the ROI  
