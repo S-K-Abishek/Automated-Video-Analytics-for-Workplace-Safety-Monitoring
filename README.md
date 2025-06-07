@@ -17,6 +17,17 @@ This script is a video processing tool that uses the YOLOv5 object detection mod
 
 > ⚠️ **Note:** Define at least **4 points** to complete the polygon and activate detection inside the ROI.
 
+## 📸 Visual Demonstration
+
+### Step 1: Person detected outside ROI  
+![Step 1](Images/person_detected.png)
+
+### Step 2: ROI marked (green polygon) and multiple persons detected  
+![Step 2](Images/roi_with_multiple_persons.png)
+
+### Step 3: Alarm triggered as a person enters the ROI  
+![Step 3](Images/alarm_triggered_inside_roi.png)
+
 
 ## 🧠 Model
 
